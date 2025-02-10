@@ -59,12 +59,6 @@
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAAT-BRAND&show_icons=true&locale=en&layout=compact" alt="JULMI JAAT" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAAT-BRAND&" alt="JAAT-BRAND" /></p>
-
-<h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/JAAT-BRAND"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://fb.com/Oops.errors"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/mumit_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
-
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
@@ -73,3 +67,13 @@
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
+
+<br>
+<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<h3><b><i> Contact me in Touch :</i></b></h3>
+<a href="https://github.com/JAAT-BRAND"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://fb.com/Oops.errors"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/mumit_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+
