@@ -64,3 +64,12 @@
 <a href="https://github.com/JAAT-BRAND"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
 <a href="https://fb.com/Oops.errors"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
 <a href="https://www.instagram.com/mumit_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
+
+<p align="center">
+    <a href="https://github.com/JAAT-BRAND">
+          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JULMI JAAT&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+  </a>
+</p>
