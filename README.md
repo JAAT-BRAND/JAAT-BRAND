@@ -59,8 +59,7 @@
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAAT-BRAND&show_icons=true&locale=en&layout=compact" alt="JULMI JAAT" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAAT-BRAND&" alt="JAAT-BRAND" /></p>
-## 
-cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 <p align="center">
     <a href="https://github.com/JAAT-BRAND">
           <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JULMI JAAT&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
