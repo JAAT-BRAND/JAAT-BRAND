@@ -56,6 +56,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAAT-BRAND&show_icons=true&locale=en" alt="JULMI-JAAT" /></p>
 
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAAT-BRAND&show_icons=true&locale=en&layout=compact" alt="JULMI JAAT" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAAT-BRAND&" alt="JAAT-BRAND" /></p>
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
